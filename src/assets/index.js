@@ -13,10 +13,7 @@ import go from "./tech-stack/go.png";
 // Import project images
 import photopartpro from "./projects/photopartpro.gif";
 import sms from "./projects/sms.jpg";
-import payloadmaster from "./projects/payloadmaster.png";
 import dp from "./projects/dp.jpg";
-import sketcher from "./projects/sketcher.png";
-import CompileVortex from "./projects/CompileVortex.png";
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -51,10 +48,7 @@ export {
   angular,
   photopartpro,
   sms,
-  payloadmaster,
   dp,
-  sketcher,
-  CompileVortex,
   logo,
   menu,
   close,
